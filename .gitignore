@@ -1,0 +1,18 @@
+# Database
+# Ignore real data
+*.db
+*.sqlite3
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Sensitive
+config/keys.py
+.env
+
+# Flutter/Dart
+build/
+.dart_tool/
+
